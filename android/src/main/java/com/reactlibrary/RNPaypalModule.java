@@ -1,5 +1,5 @@
 
-package com.reactlibrary;
+package com.paypal.payment;
 
 import android.app.Activity;
 import android.content.Intent;
